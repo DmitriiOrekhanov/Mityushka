@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Mityushka
-- 👀 I’m interested in Front-end Development!
-- 🌱 I’m currently learning html/css/js
-- 💞️ I’m looking for any internship/work you can offer!
-- 📫 Feel free to contact me via email: mityushka.hozyushka@gmail.com or Telegram: https://t.me/mityaoreh
+# Dmitrii Orekhanov
 
-<!---
-Mityushka/Mityushka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### **Contact information**
+
+-   **Location:** Moscow, Russia
+-   **Phone:** +7 (977) 322-57-15
+-   **Email:** mityushka.hozyushka@gmail.com
+-   **Telegram:** @mityaoreh
+-   **[GitHub](https://github.com/Mityushka)**
+
+---
+
+### **About Me**
+
+18 y.o. from **Moscow, Russia.**
+
+Currently studying in **MSTU Stankin** in Computer science.
+
+My goal is becoming a **Front-end Developer.** I'm interested in that direction of software development and do my best to achive that goal.
