@@ -12,7 +12,7 @@
 
 ### **About Me**
 
-18 y.o. from **Moscow, Russia.**
+19 y.o. from **Moscow, Russia.**
 
 Currently studying in **MSTU Stankin** in Computer science.
 
